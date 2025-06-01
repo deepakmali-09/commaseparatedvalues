@@ -24,7 +24,7 @@ public class CommaSeperatedValue {
             System.out.println("Number with more than 3 digits: " + "$"+result);
         }
     }
-
+    
     public static void main(String[] args) {
         commaSeperatedNumber("110698");
     }
